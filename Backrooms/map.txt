@@ -1,0 +1,7 @@
+pode_ir(8, 9, 14).
+pode_ir(8, 11, 19).
+pode_ir(9, 8, 14).
+pode_ir(9, 11, 20).
+pode_ir(11, 8, 19).
+pode_ir(11, 9, 20).
+pode_ir(11, 10, 21).

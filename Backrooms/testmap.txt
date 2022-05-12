@@ -1,0 +1,6 @@
+pode_ir(2, 3, 1).
+pode_ir(3, 1, 1).
+pode_ir(4, 0, 1).
+pode_ir(4, 1, 1).
+pode_ir(5, 0, 1).
+pode_ir(5, 2, 2).
